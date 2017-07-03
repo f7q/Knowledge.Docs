@@ -1,0 +1,345 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: ExtCore.Infrastructure
+  name: ExtCore.Infrastructure
+  href: api/ExtCore.Infrastructure.html
+  commentId: N:ExtCore.Infrastructure
+  fullName: ExtCore.Infrastructure
+  nameWithType: ExtCore.Infrastructure
+- uid: ExtCore.Infrastructure.ExtensionManager
+  name: ExtensionManager
+  href: api/ExtCore.Infrastructure.ExtensionManager.html
+  commentId: T:ExtCore.Infrastructure.ExtensionManager
+  fullName: ExtCore.Infrastructure.ExtensionManager
+  nameWithType: ExtensionManager
+- uid: ExtCore.Infrastructure.ExtensionManager.Assemblies
+  name: Assemblies
+  href: api/ExtCore.Infrastructure.ExtensionManager.html#ExtCore_Infrastructure_ExtensionManager_Assemblies
+  commentId: P:ExtCore.Infrastructure.ExtensionManager.Assemblies
+  fullName: ExtCore.Infrastructure.ExtensionManager.Assemblies
+  nameWithType: ExtensionManager.Assemblies
+- uid: ExtCore.Infrastructure.ExtensionManager.Assemblies*
+  name: Assemblies
+  href: api/ExtCore.Infrastructure.ExtensionManager.html#ExtCore_Infrastructure_ExtensionManager_Assemblies_
+  commentId: Overload:ExtCore.Infrastructure.ExtensionManager.Assemblies
+  fullName: ExtCore.Infrastructure.ExtensionManager.Assemblies
+  nameWithType: ExtensionManager.Assemblies
+- uid: ExtCore.Infrastructure.ExtensionManager.Extensions
+  name: Extensions
+  href: api/ExtCore.Infrastructure.ExtensionManager.html#ExtCore_Infrastructure_ExtensionManager_Extensions
+  commentId: P:ExtCore.Infrastructure.ExtensionManager.Extensions
+  fullName: ExtCore.Infrastructure.ExtensionManager.Extensions
+  nameWithType: ExtensionManager.Extensions
+- uid: ExtCore.Infrastructure.ExtensionManager.Extensions*
+  name: Extensions
+  href: api/ExtCore.Infrastructure.ExtensionManager.html#ExtCore_Infrastructure_ExtensionManager_Extensions_
+  commentId: Overload:ExtCore.Infrastructure.ExtensionManager.Extensions
+  fullName: ExtCore.Infrastructure.ExtensionManager.Extensions
+  nameWithType: ExtensionManager.Extensions
+- uid: ExtCore.Infrastructure.ExtensionManager.GetImplementation*
+  name: GetImplementation
+  href: api/ExtCore.Infrastructure.ExtensionManager.html#ExtCore_Infrastructure_ExtensionManager_GetImplementation_
+  commentId: Overload:ExtCore.Infrastructure.ExtensionManager.GetImplementation
+  fullName: ExtCore.Infrastructure.ExtensionManager.GetImplementation
+  nameWithType: ExtensionManager.GetImplementation
+- uid: ExtCore.Infrastructure.ExtensionManager.GetImplementation``1
+  name: GetImplementation<T>()
+  href: api/ExtCore.Infrastructure.ExtensionManager.html#ExtCore_Infrastructure_ExtensionManager_GetImplementation__1
+  commentId: M:ExtCore.Infrastructure.ExtensionManager.GetImplementation``1
+  name.vb: GetImplementation(Of T)()
+  fullName: ExtCore.Infrastructure.ExtensionManager.GetImplementation<T>()
+  fullName.vb: ExtCore.Infrastructure.ExtensionManager.GetImplementation(Of T)()
+  nameWithType: ExtensionManager.GetImplementation<T>()
+  nameWithType.vb: ExtensionManager.GetImplementation(Of T)()
+- uid: ExtCore.Infrastructure.ExtensionManager.GetImplementation``1(Func{Assembly,System.Boolean})
+  name: GetImplementation<T>(Func<Assembly, Boolean>)
+  href: api/ExtCore.Infrastructure.ExtensionManager.html#ExtCore_Infrastructure_ExtensionManager_GetImplementation__1_Func_Assembly_System_Boolean__
+  commentId: M:ExtCore.Infrastructure.ExtensionManager.GetImplementation``1(Func{Assembly,System.Boolean})
+  name.vb: GetImplementation(Of T)(Func(Of Assembly, Boolean))
+  fullName: ExtCore.Infrastructure.ExtensionManager.GetImplementation<T>(Func<Assembly, System.Boolean>)
+  fullName.vb: ExtCore.Infrastructure.ExtensionManager.GetImplementation(Of T)(Func(Of Assembly, System.Boolean))
+  nameWithType: ExtensionManager.GetImplementation<T>(Func<Assembly, Boolean>)
+  nameWithType.vb: ExtensionManager.GetImplementation(Of T)(Func(Of Assembly, Boolean))
+- uid: ExtCore.Infrastructure.ExtensionManager.GetImplementations*
+  name: GetImplementations
+  href: api/ExtCore.Infrastructure.ExtensionManager.html#ExtCore_Infrastructure_ExtensionManager_GetImplementations_
+  commentId: Overload:ExtCore.Infrastructure.ExtensionManager.GetImplementations
+  fullName: ExtCore.Infrastructure.ExtensionManager.GetImplementations
+  nameWithType: ExtensionManager.GetImplementations
+- uid: ExtCore.Infrastructure.ExtensionManager.GetImplementations``1
+  name: GetImplementations<T>()
+  href: api/ExtCore.Infrastructure.ExtensionManager.html#ExtCore_Infrastructure_ExtensionManager_GetImplementations__1
+  commentId: M:ExtCore.Infrastructure.ExtensionManager.GetImplementations``1
+  name.vb: GetImplementations(Of T)()
+  fullName: ExtCore.Infrastructure.ExtensionManager.GetImplementations<T>()
+  fullName.vb: ExtCore.Infrastructure.ExtensionManager.GetImplementations(Of T)()
+  nameWithType: ExtensionManager.GetImplementations<T>()
+  nameWithType.vb: ExtensionManager.GetImplementations(Of T)()
+- uid: ExtCore.Infrastructure.ExtensionManager.GetImplementations``1(Func{Assembly,System.Boolean})
+  name: GetImplementations<T>(Func<Assembly, Boolean>)
+  href: api/ExtCore.Infrastructure.ExtensionManager.html#ExtCore_Infrastructure_ExtensionManager_GetImplementations__1_Func_Assembly_System_Boolean__
+  commentId: M:ExtCore.Infrastructure.ExtensionManager.GetImplementations``1(Func{Assembly,System.Boolean})
+  name.vb: GetImplementations(Of T)(Func(Of Assembly, Boolean))
+  fullName: ExtCore.Infrastructure.ExtensionManager.GetImplementations<T>(Func<Assembly, System.Boolean>)
+  fullName.vb: ExtCore.Infrastructure.ExtensionManager.GetImplementations(Of T)(Func(Of Assembly, System.Boolean))
+  nameWithType: ExtensionManager.GetImplementations<T>(Func<Assembly, Boolean>)
+  nameWithType.vb: ExtensionManager.GetImplementations(Of T)(Func(Of Assembly, Boolean))
+- uid: ExtCore.Infrastructure.ExtensionManager.GetInstance*
+  name: GetInstance
+  href: api/ExtCore.Infrastructure.ExtensionManager.html#ExtCore_Infrastructure_ExtensionManager_GetInstance_
+  commentId: Overload:ExtCore.Infrastructure.ExtensionManager.GetInstance
+  fullName: ExtCore.Infrastructure.ExtensionManager.GetInstance
+  nameWithType: ExtensionManager.GetInstance
+- uid: ExtCore.Infrastructure.ExtensionManager.GetInstance``1
+  name: GetInstance<T>()
+  href: api/ExtCore.Infrastructure.ExtensionManager.html#ExtCore_Infrastructure_ExtensionManager_GetInstance__1
+  commentId: M:ExtCore.Infrastructure.ExtensionManager.GetInstance``1
+  name.vb: GetInstance(Of T)()
+  fullName: ExtCore.Infrastructure.ExtensionManager.GetInstance<T>()
+  fullName.vb: ExtCore.Infrastructure.ExtensionManager.GetInstance(Of T)()
+  nameWithType: ExtensionManager.GetInstance<T>()
+  nameWithType.vb: ExtensionManager.GetInstance(Of T)()
+- uid: ExtCore.Infrastructure.ExtensionManager.GetInstance``1(Func{Assembly,System.Boolean})
+  name: GetInstance<T>(Func<Assembly, Boolean>)
+  href: api/ExtCore.Infrastructure.ExtensionManager.html#ExtCore_Infrastructure_ExtensionManager_GetInstance__1_Func_Assembly_System_Boolean__
+  commentId: M:ExtCore.Infrastructure.ExtensionManager.GetInstance``1(Func{Assembly,System.Boolean})
+  name.vb: GetInstance(Of T)(Func(Of Assembly, Boolean))
+  fullName: ExtCore.Infrastructure.ExtensionManager.GetInstance<T>(Func<Assembly, System.Boolean>)
+  fullName.vb: ExtCore.Infrastructure.ExtensionManager.GetInstance(Of T)(Func(Of Assembly, System.Boolean))
+  nameWithType: ExtensionManager.GetInstance<T>(Func<Assembly, Boolean>)
+  nameWithType.vb: ExtensionManager.GetInstance(Of T)(Func(Of Assembly, Boolean))
+- uid: ExtCore.Infrastructure.ExtensionManager.GetInstances*
+  name: GetInstances
+  href: api/ExtCore.Infrastructure.ExtensionManager.html#ExtCore_Infrastructure_ExtensionManager_GetInstances_
+  commentId: Overload:ExtCore.Infrastructure.ExtensionManager.GetInstances
+  fullName: ExtCore.Infrastructure.ExtensionManager.GetInstances
+  nameWithType: ExtensionManager.GetInstances
+- uid: ExtCore.Infrastructure.ExtensionManager.GetInstances``1
+  name: GetInstances<T>()
+  href: api/ExtCore.Infrastructure.ExtensionManager.html#ExtCore_Infrastructure_ExtensionManager_GetInstances__1
+  commentId: M:ExtCore.Infrastructure.ExtensionManager.GetInstances``1
+  name.vb: GetInstances(Of T)()
+  fullName: ExtCore.Infrastructure.ExtensionManager.GetInstances<T>()
+  fullName.vb: ExtCore.Infrastructure.ExtensionManager.GetInstances(Of T)()
+  nameWithType: ExtensionManager.GetInstances<T>()
+  nameWithType.vb: ExtensionManager.GetInstances(Of T)()
+- uid: ExtCore.Infrastructure.ExtensionManager.GetInstances``1(Func{Assembly,System.Boolean})
+  name: GetInstances<T>(Func<Assembly, Boolean>)
+  href: api/ExtCore.Infrastructure.ExtensionManager.html#ExtCore_Infrastructure_ExtensionManager_GetInstances__1_Func_Assembly_System_Boolean__
+  commentId: M:ExtCore.Infrastructure.ExtensionManager.GetInstances``1(Func{Assembly,System.Boolean})
+  name.vb: GetInstances(Of T)(Func(Of Assembly, Boolean))
+  fullName: ExtCore.Infrastructure.ExtensionManager.GetInstances<T>(Func<Assembly, System.Boolean>)
+  fullName.vb: ExtCore.Infrastructure.ExtensionManager.GetInstances(Of T)(Func(Of Assembly, System.Boolean))
+  nameWithType: ExtensionManager.GetInstances<T>(Func<Assembly, Boolean>)
+  nameWithType.vb: ExtensionManager.GetInstances(Of T)(Func(Of Assembly, Boolean))
+- uid: ExtCore.Infrastructure.ExtensionManager.SetAssemblies(IEnumerable{Assembly})
+  name: SetAssemblies(IEnumerable<Assembly>)
+  href: api/ExtCore.Infrastructure.ExtensionManager.html#ExtCore_Infrastructure_ExtensionManager_SetAssemblies_IEnumerable_Assembly__
+  commentId: M:ExtCore.Infrastructure.ExtensionManager.SetAssemblies(IEnumerable{Assembly})
+  name.vb: SetAssemblies(IEnumerable(Of Assembly))
+  fullName: ExtCore.Infrastructure.ExtensionManager.SetAssemblies(IEnumerable<Assembly>)
+  fullName.vb: ExtCore.Infrastructure.ExtensionManager.SetAssemblies(IEnumerable(Of Assembly))
+  nameWithType: ExtensionManager.SetAssemblies(IEnumerable<Assembly>)
+  nameWithType.vb: ExtensionManager.SetAssemblies(IEnumerable(Of Assembly))
+- uid: ExtCore.Infrastructure.ExtensionManager.SetAssemblies*
+  name: SetAssemblies
+  href: api/ExtCore.Infrastructure.ExtensionManager.html#ExtCore_Infrastructure_ExtensionManager_SetAssemblies_
+  commentId: Overload:ExtCore.Infrastructure.ExtensionManager.SetAssemblies
+  fullName: ExtCore.Infrastructure.ExtensionManager.SetAssemblies
+  nameWithType: ExtensionManager.SetAssemblies
+- uid: ExtCore.Infrastructure.IExtension
+  name: IExtension
+  href: api/ExtCore.Infrastructure.IExtension.html
+  commentId: T:ExtCore.Infrastructure.IExtension
+  fullName: ExtCore.Infrastructure.IExtension
+  nameWithType: IExtension
+- uid: ExtCore.Infrastructure.IExtension.Configure(IApplicationBuilder)
+  name: Configure(IApplicationBuilder)
+  href: api/ExtCore.Infrastructure.IExtension.html#ExtCore_Infrastructure_IExtension_Configure_IApplicationBuilder_
+  commentId: M:ExtCore.Infrastructure.IExtension.Configure(IApplicationBuilder)
+  fullName: ExtCore.Infrastructure.IExtension.Configure(IApplicationBuilder)
+  nameWithType: IExtension.Configure(IApplicationBuilder)
+- uid: ExtCore.Infrastructure.IExtension.ConfigurePriorities
+  name: ConfigurePriorities
+  href: api/ExtCore.Infrastructure.IExtension.html#ExtCore_Infrastructure_IExtension_ConfigurePriorities
+  commentId: P:ExtCore.Infrastructure.IExtension.ConfigurePriorities
+  fullName: ExtCore.Infrastructure.IExtension.ConfigurePriorities
+  nameWithType: IExtension.ConfigurePriorities
+- uid: ExtCore.Infrastructure.IExtension.ConfigureServices(IServiceCollection)
+  name: ConfigureServices(IServiceCollection)
+  href: api/ExtCore.Infrastructure.IExtension.html#ExtCore_Infrastructure_IExtension_ConfigureServices_IServiceCollection_
+  commentId: M:ExtCore.Infrastructure.IExtension.ConfigureServices(IServiceCollection)
+  fullName: ExtCore.Infrastructure.IExtension.ConfigureServices(IServiceCollection)
+  nameWithType: IExtension.ConfigureServices(IServiceCollection)
+- uid: ExtCore.Infrastructure.IExtension.ConfigureServicesPriorities
+  name: ConfigureServicesPriorities
+  href: api/ExtCore.Infrastructure.IExtension.html#ExtCore_Infrastructure_IExtension_ConfigureServicesPriorities
+  commentId: P:ExtCore.Infrastructure.IExtension.ConfigureServicesPriorities
+  fullName: ExtCore.Infrastructure.IExtension.ConfigureServicesPriorities
+  nameWithType: IExtension.ConfigureServicesPriorities
+- uid: ExtCore.Infrastructure.IExtension.Name
+  name: Name
+  href: api/ExtCore.Infrastructure.IExtension.html#ExtCore_Infrastructure_IExtension_Name
+  commentId: P:ExtCore.Infrastructure.IExtension.Name
+  fullName: ExtCore.Infrastructure.IExtension.Name
+  nameWithType: IExtension.Name
+- uid: ExtCore.Infrastructure.IExtension.RouteRegistrarsByPriorities
+  name: RouteRegistrarsByPriorities
+  href: api/ExtCore.Infrastructure.IExtension.html#ExtCore_Infrastructure_IExtension_RouteRegistrarsByPriorities
+  commentId: P:ExtCore.Infrastructure.IExtension.RouteRegistrarsByPriorities
+  fullName: ExtCore.Infrastructure.IExtension.RouteRegistrarsByPriorities
+  nameWithType: IExtension.RouteRegistrarsByPriorities
+- uid: ExtCore.Infrastructure.IExtension.SetConfigurationRoot(IConfigurationRoot)
+  name: SetConfigurationRoot(IConfigurationRoot)
+  href: api/ExtCore.Infrastructure.IExtension.html#ExtCore_Infrastructure_IExtension_SetConfigurationRoot_IConfigurationRoot_
+  commentId: M:ExtCore.Infrastructure.IExtension.SetConfigurationRoot(IConfigurationRoot)
+  fullName: ExtCore.Infrastructure.IExtension.SetConfigurationRoot(IConfigurationRoot)
+  nameWithType: IExtension.SetConfigurationRoot(IConfigurationRoot)
+- uid: ExtCore.WebApplication
+  name: ExtCore.WebApplication
+  href: api/ExtCore.WebApplication.html
+  commentId: N:ExtCore.WebApplication
+  fullName: ExtCore.WebApplication
+  nameWithType: ExtCore.WebApplication
+- uid: ExtCore.WebApplication.AssemblyManager
+  name: AssemblyManager
+  href: api/ExtCore.WebApplication.AssemblyManager.html
+  commentId: T:ExtCore.WebApplication.AssemblyManager
+  fullName: ExtCore.WebApplication.AssemblyManager
+  nameWithType: AssemblyManager
+- uid: ExtCore.WebApplication.AssemblyManager.GetAssemblies(IEnumerable{Assembly},System.String)
+  name: GetAssemblies(IEnumerable<Assembly>, String)
+  href: api/ExtCore.WebApplication.AssemblyManager.html#ExtCore_WebApplication_AssemblyManager_GetAssemblies_IEnumerable_Assembly__System_String_
+  commentId: M:ExtCore.WebApplication.AssemblyManager.GetAssemblies(IEnumerable{Assembly},System.String)
+  name.vb: GetAssemblies(IEnumerable(Of Assembly), String)
+  fullName: ExtCore.WebApplication.AssemblyManager.GetAssemblies(IEnumerable<Assembly>, System.String)
+  fullName.vb: ExtCore.WebApplication.AssemblyManager.GetAssemblies(IEnumerable(Of Assembly), System.String)
+  nameWithType: AssemblyManager.GetAssemblies(IEnumerable<Assembly>, String)
+  nameWithType.vb: AssemblyManager.GetAssemblies(IEnumerable(Of Assembly), String)
+- uid: ExtCore.WebApplication.AssemblyManager.GetAssemblies*
+  name: GetAssemblies
+  href: api/ExtCore.WebApplication.AssemblyManager.html#ExtCore_WebApplication_AssemblyManager_GetAssemblies_
+  commentId: Overload:ExtCore.WebApplication.AssemblyManager.GetAssemblies
+  fullName: ExtCore.WebApplication.AssemblyManager.GetAssemblies
+  nameWithType: AssemblyManager.GetAssemblies
+- uid: ExtCore.WebApplication.AssemblyManager.GetAssembliesCompilationLibrary(IEnumerable{Assembly})
+  name: GetAssembliesCompilationLibrary(IEnumerable<Assembly>)
+  href: api/ExtCore.WebApplication.AssemblyManager.html#ExtCore_WebApplication_AssemblyManager_GetAssembliesCompilationLibrary_IEnumerable_Assembly__
+  commentId: M:ExtCore.WebApplication.AssemblyManager.GetAssembliesCompilationLibrary(IEnumerable{Assembly})
+  name.vb: GetAssembliesCompilationLibrary(IEnumerable(Of Assembly))
+  fullName: ExtCore.WebApplication.AssemblyManager.GetAssembliesCompilationLibrary(IEnumerable<Assembly>)
+  fullName.vb: ExtCore.WebApplication.AssemblyManager.GetAssembliesCompilationLibrary(IEnumerable(Of Assembly))
+  nameWithType: AssemblyManager.GetAssembliesCompilationLibrary(IEnumerable<Assembly>)
+  nameWithType.vb: AssemblyManager.GetAssembliesCompilationLibrary(IEnumerable(Of Assembly))
+- uid: ExtCore.WebApplication.AssemblyManager.GetAssembliesCompilationLibrary*
+  name: GetAssembliesCompilationLibrary
+  href: api/ExtCore.WebApplication.AssemblyManager.html#ExtCore_WebApplication_AssemblyManager_GetAssembliesCompilationLibrary_
+  commentId: Overload:ExtCore.WebApplication.AssemblyManager.GetAssembliesCompilationLibrary
+  fullName: ExtCore.WebApplication.AssemblyManager.GetAssembliesCompilationLibrary
+  nameWithType: AssemblyManager.GetAssembliesCompilationLibrary
+- uid: ExtCore.WebApplication.CompositeFileProvider
+  name: CompositeFileProvider
+  href: api/ExtCore.WebApplication.CompositeFileProvider.html
+  commentId: T:ExtCore.WebApplication.CompositeFileProvider
+  fullName: ExtCore.WebApplication.CompositeFileProvider
+  nameWithType: CompositeFileProvider
+- uid: ExtCore.WebApplication.CompositeFileProvider.#ctor(IEnumerable{IFileProvider})
+  name: CompositeFileProvider(IEnumerable<IFileProvider>)
+  href: api/ExtCore.WebApplication.CompositeFileProvider.html#ExtCore_WebApplication_CompositeFileProvider__ctor_IEnumerable_IFileProvider__
+  commentId: M:ExtCore.WebApplication.CompositeFileProvider.#ctor(IEnumerable{IFileProvider})
+  name.vb: CompositeFileProvider(IEnumerable(Of IFileProvider))
+  fullName: ExtCore.WebApplication.CompositeFileProvider.CompositeFileProvider(IEnumerable<IFileProvider>)
+  fullName.vb: ExtCore.WebApplication.CompositeFileProvider.CompositeFileProvider(IEnumerable(Of IFileProvider))
+  nameWithType: CompositeFileProvider.CompositeFileProvider(IEnumerable<IFileProvider>)
+  nameWithType.vb: CompositeFileProvider.CompositeFileProvider(IEnumerable(Of IFileProvider))
+- uid: ExtCore.WebApplication.CompositeFileProvider.#ctor*
+  name: CompositeFileProvider
+  href: api/ExtCore.WebApplication.CompositeFileProvider.html#ExtCore_WebApplication_CompositeFileProvider__ctor_
+  commentId: Overload:ExtCore.WebApplication.CompositeFileProvider.#ctor
+  fullName: ExtCore.WebApplication.CompositeFileProvider.CompositeFileProvider
+  nameWithType: CompositeFileProvider.CompositeFileProvider
+- uid: ExtCore.WebApplication.CompositeFileProvider.GetDirectoryContents(System.String)
+  name: GetDirectoryContents(String)
+  href: api/ExtCore.WebApplication.CompositeFileProvider.html#ExtCore_WebApplication_CompositeFileProvider_GetDirectoryContents_System_String_
+  commentId: M:ExtCore.WebApplication.CompositeFileProvider.GetDirectoryContents(System.String)
+  fullName: ExtCore.WebApplication.CompositeFileProvider.GetDirectoryContents(System.String)
+  nameWithType: CompositeFileProvider.GetDirectoryContents(String)
+- uid: ExtCore.WebApplication.CompositeFileProvider.GetDirectoryContents*
+  name: GetDirectoryContents
+  href: api/ExtCore.WebApplication.CompositeFileProvider.html#ExtCore_WebApplication_CompositeFileProvider_GetDirectoryContents_
+  commentId: Overload:ExtCore.WebApplication.CompositeFileProvider.GetDirectoryContents
+  fullName: ExtCore.WebApplication.CompositeFileProvider.GetDirectoryContents
+  nameWithType: CompositeFileProvider.GetDirectoryContents
+- uid: ExtCore.WebApplication.CompositeFileProvider.GetFileInfo(System.String)
+  name: GetFileInfo(String)
+  href: api/ExtCore.WebApplication.CompositeFileProvider.html#ExtCore_WebApplication_CompositeFileProvider_GetFileInfo_System_String_
+  commentId: M:ExtCore.WebApplication.CompositeFileProvider.GetFileInfo(System.String)
+  fullName: ExtCore.WebApplication.CompositeFileProvider.GetFileInfo(System.String)
+  nameWithType: CompositeFileProvider.GetFileInfo(String)
+- uid: ExtCore.WebApplication.CompositeFileProvider.GetFileInfo*
+  name: GetFileInfo
+  href: api/ExtCore.WebApplication.CompositeFileProvider.html#ExtCore_WebApplication_CompositeFileProvider_GetFileInfo_
+  commentId: Overload:ExtCore.WebApplication.CompositeFileProvider.GetFileInfo
+  fullName: ExtCore.WebApplication.CompositeFileProvider.GetFileInfo
+  nameWithType: CompositeFileProvider.GetFileInfo
+- uid: ExtCore.WebApplication.CompositeFileProvider.Watch(System.String)
+  name: Watch(String)
+  href: api/ExtCore.WebApplication.CompositeFileProvider.html#ExtCore_WebApplication_CompositeFileProvider_Watch_System_String_
+  commentId: M:ExtCore.WebApplication.CompositeFileProvider.Watch(System.String)
+  fullName: ExtCore.WebApplication.CompositeFileProvider.Watch(System.String)
+  nameWithType: CompositeFileProvider.Watch(String)
+- uid: ExtCore.WebApplication.CompositeFileProvider.Watch*
+  name: Watch
+  href: api/ExtCore.WebApplication.CompositeFileProvider.html#ExtCore_WebApplication_CompositeFileProvider_Watch_
+  commentId: Overload:ExtCore.WebApplication.CompositeFileProvider.Watch
+  fullName: ExtCore.WebApplication.CompositeFileProvider.Watch
+  nameWithType: CompositeFileProvider.Watch
+- uid: ExtCore.WebApplication.Startup
+  name: Startup
+  href: api/ExtCore.WebApplication.Startup.html
+  commentId: T:ExtCore.WebApplication.Startup
+  fullName: ExtCore.WebApplication.Startup
+  nameWithType: Startup
+- uid: ExtCore.WebApplication.Startup.#ctor(IHostingEnvironment)
+  name: Startup(IHostingEnvironment)
+  href: api/ExtCore.WebApplication.Startup.html#ExtCore_WebApplication_Startup__ctor_IHostingEnvironment_
+  commentId: M:ExtCore.WebApplication.Startup.#ctor(IHostingEnvironment)
+  fullName: ExtCore.WebApplication.Startup.Startup(IHostingEnvironment)
+  nameWithType: Startup.Startup(IHostingEnvironment)
+- uid: ExtCore.WebApplication.Startup.#ctor*
+  name: Startup
+  href: api/ExtCore.WebApplication.Startup.html#ExtCore_WebApplication_Startup__ctor_
+  commentId: Overload:ExtCore.WebApplication.Startup.#ctor
+  fullName: ExtCore.WebApplication.Startup.Startup
+  nameWithType: Startup.Startup
+- uid: ExtCore.WebApplication.Startup.configurationRoot
+  name: configurationRoot
+  href: api/ExtCore.WebApplication.Startup.html#ExtCore_WebApplication_Startup_configurationRoot
+  commentId: F:ExtCore.WebApplication.Startup.configurationRoot
+  fullName: ExtCore.WebApplication.Startup.configurationRoot
+  nameWithType: Startup.configurationRoot
+- uid: ExtCore.WebApplication.Startup.Configure(IApplicationBuilder,IHostingEnvironment)
+  name: Configure(IApplicationBuilder, IHostingEnvironment)
+  href: api/ExtCore.WebApplication.Startup.html#ExtCore_WebApplication_Startup_Configure_IApplicationBuilder_IHostingEnvironment_
+  commentId: M:ExtCore.WebApplication.Startup.Configure(IApplicationBuilder,IHostingEnvironment)
+  fullName: ExtCore.WebApplication.Startup.Configure(IApplicationBuilder, IHostingEnvironment)
+  nameWithType: Startup.Configure(IApplicationBuilder, IHostingEnvironment)
+- uid: ExtCore.WebApplication.Startup.Configure*
+  name: Configure
+  href: api/ExtCore.WebApplication.Startup.html#ExtCore_WebApplication_Startup_Configure_
+  commentId: Overload:ExtCore.WebApplication.Startup.Configure
+  fullName: ExtCore.WebApplication.Startup.Configure
+  nameWithType: Startup.Configure
+- uid: ExtCore.WebApplication.Startup.ConfigureServices(IServiceCollection)
+  name: ConfigureServices(IServiceCollection)
+  href: api/ExtCore.WebApplication.Startup.html#ExtCore_WebApplication_Startup_ConfigureServices_IServiceCollection_
+  commentId: M:ExtCore.WebApplication.Startup.ConfigureServices(IServiceCollection)
+  fullName: ExtCore.WebApplication.Startup.ConfigureServices(IServiceCollection)
+  nameWithType: Startup.ConfigureServices(IServiceCollection)
+- uid: ExtCore.WebApplication.Startup.ConfigureServices*
+  name: ConfigureServices
+  href: api/ExtCore.WebApplication.Startup.html#ExtCore_WebApplication_Startup_ConfigureServices_
+  commentId: Overload:ExtCore.WebApplication.Startup.ConfigureServices
+  fullName: ExtCore.WebApplication.Startup.ConfigureServices
+  nameWithType: Startup.ConfigureServices
